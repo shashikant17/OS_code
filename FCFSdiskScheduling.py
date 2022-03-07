@@ -1,6 +1,8 @@
 # Disc Scheduling FCFS
 size = 8
+# taking a const variable of size 8
  
+# define function for FCFS (First come First Out)
 def FCFS(arr, head):
  
     seek_count = 0
